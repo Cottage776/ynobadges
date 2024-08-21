@@ -126,9 +126,9 @@
       "condition": "NovAflow(챗봇)가 되기"
     },
     "unconscious_dev": {
-      "name": "Collective Unconscious Developer",
-      "description": "Reserved for Collective Unconscious developers",
-      "condition": "Contribute maps or to the core system of Collective Unconscious"
+      "name": "Collective Unconscious 개발자",
+      "description": "Collective Unconscious 개발자에게 수여하는 배지입니다",
+      "condition": "Collective Unconscious에 맵 또는 개발로 기여하기"
     }
   },
   "yume": {
@@ -372,8 +372,8 @@
       "description": "트리플",
       "condition": "삼각 두건 이펙트를 착용한 채로 달걀 귀신 유령(Nopperabou ghost), 빨간 유령(Fleebie)과 상호작용하고 식칼 이펙트로 파란 유령(Follony)을 찌르기",
       "checkbox": {
-        "ghostly_nopp": "귀신 유령(Nopperabou ghost)",
-        "ghostly_follony": "파란 유령(Follony)",
+        "ghostly_nopp": "달걀 귀신 유령(Nopperabou ghost)",
+        "ghostly_follony": "식칼 이펙트로 파란 유령(Follony)을 찌르기",
         "ghostly_fleebie": "빨간 유령(Fleebie)"
       }
     },
@@ -415,23 +415,23 @@
       "condition": "호수에서 외눈박이 장경룡(Tasei's kid) NPC와 마주치기"
     },
     "sewers_painting": {
-      "name": "Strange Markings",
-      "description": "Those are some weird pictures...",
-      "condition": "Interact with any of the drawings in the Sewers"
+      "name": "기묘한 표식",
+      "description": "이상한 그림들이 있어...",
+      "condition": "하수구에서 아무 그림과 상호작용하기"
     },
     "mafurako_block_world": {
-      "name": "Block Traveler",
-      "description": "You've been here before.",
-      "condition": "Visit every place where Mafurako can teleport you in Block World"
+      "name": "블록 여행자",
+      "description": "여기에 와 본 적이 있구나.",
+      "condition": "블록의 세계에서 머플러코(Mafurako)와 상호작용하여 이동할 수 있는 모든 장소를 방문하기"
     },
     "desert_block_world": {
-      "name": "From Block to Mono",
-      "condition": "Visit White Desert A from Block World"
+      "name": "블록에서 흑백으로",
+      "condition": "블록의 세계를 통해 흑백 세계 A를 방문하기"
     },
     "mall_underground_link": {
-      "name": "A Game of Broken Elevators",
-      "description": "A certain rooftop awaits your arrival.",
-      "condition": "Take the one-way trip from Underground World to the Mall"
+      "name": "고장난 엘리베이터의 유희",
+      "description": "당신이 그 옥상으로 도착하기를 기다리고 있다",
+      "condition": "지하실에서 백화점까지 편도로 이동하기"
     }
   },
   "2kki": {
@@ -580,7 +580,7 @@
     "lotus_waters": {
       "name": "피어나는 수련",
       "description": "만개한 물 속의 꽃",
-      "condition": "Time Trial Mode로 Lotus Waters 에 {TIME} 이내로 도달하기"
+      "condition": "Time Trial Mode를 켜고 Lotus Waters 에 {TIME} 이내로 도달하기"
     },
     "fabric_planet": {
       "name": "헝겊 행성",
@@ -596,7 +596,7 @@
     },
     "monochrome_stairs": {
       "name": "흙벣의 계닮",
-      "condition": "Time Trial Mode로 Static Labyrinth에 {TIME} 이내로 도달하기"
+      "condition": "Time Trial Mode를 켜고 Static Labyrinth에 {TIME} 이내로 도달하기"
     },
     "lavender_lesser": {
       "name": "보라색 잼",
@@ -2049,7 +2049,7 @@
     "monmon": {
       "name": "몬몬",
       "description": "몬몬몬몬몬!",
-      "condition": "몬몬 마스크를 끼고 몬몬(Monmon) NPC와 상호작용하기"
+      "condition": "몬몬 가면을 착용하고 몬몬(Monmon) NPC와 상호작용하기"
     },
     "poseidon_statue": {
       "name": "봉인된 포세이돈",
@@ -3635,7 +3635,7 @@
     "cheesecake_mount_girl": {
       "name": "아침 식사 중독",
       "description": "가슴이 두근거려... 이 서, 설탕 때문에!",
-      "condition": "Shimofuri 또는 Haniwa Cake 마스크를 장착하고 Cheesecake Mountain에서 치즈 케이크 소녀의 방을 방문하기"
+      "condition": "Shimofuri 또는 Haniwa Cake 가면을 장착하고 Cheesecake Mountain에서 치즈 케이크 소녀의 방을 방문하기"
     },
     "seesaw_critter_village": {
       "name": "시소",
@@ -3755,118 +3755,118 @@
       "condition": "Monkey Mansion에서 거인을 보기"
     },
     "graffiti_passage_a": {
-      "name": "Paper Panic",
-      "description": "A red-tinted discovery.",
-      "condition": "Step on the red あ tile in Graffiti Passage"
+      "name": "지류공황",
+      "description": "붉은 빛이 도는 발견",
+      "condition": "Graffiti Passage에서 あ 타일을 밟기"
     },
     "witch_heaven": {
-      "name": "Magic Paradise",
-      "condition": "Visit Witch Heaven"
+      "name": "마법의 낙원",
+      "condition": "Witch Heaven을 방문하기"
     },
     "lamps_house_vases": {
-      "name": "Ceramic Daydream",
-      "description": "Pieces of dreams and desires from bygone days",
-      "condition": "Interact with the 3 lamps in House of Vases"
+      "name": "세라믹 백일몽",
+      "description": "지나간 시절의 꿈과 욕망의 조각들",
+      "condition": "House of Vases에서 3개의 램프와 상호작용하기"
     },
     "snake_maiden_pls_street": {
-      "name": "Realm of the Snake Maiden",
-      "description": "I've never seen someone so beautiful...",
-      "condition": "Use the Maiko effect near the Snake Maiden in Pleasure Street"
+      "name": "뱀 소녀의 왕국",
+      "description": "이렇게 아름다운 이는 처음이야...",
+      "condition": "Pleasure Street에 있는 뱀 소녀의 근처에서 마이코 이펙트를 사용하기"
     },
     "rainy_woods_path": {
-      "name": "Striped Umbrella",
-      "condition": "Visit Rainy Woods Path"
+      "name": "줄무늬 우산",
+      "condition": "Rainy Woods Path를 방문하기"
     },
     "vm_fancy_pillars": {
-      "name": "Chess Fancy Dress",
-      "description": "The shadows bounce joyfully",
-      "condition": "Buy something in the vending machine in the Fancy Pillars Room of Claustrophobia"
+      "name": "화려한 체스 드레스",
+      "description": "그림자들이 즐겁게 뛰어다닌다",
+      "condition": "Claustrophobia의 Fancy Pillars Room 서브 에리어에 있는 자판기에서 무엇이든 구매하기"
     },
     "pris_tent_clawtree_forest": {
-      "name": "Prismatic Cube",
-      "condition": "Visit the Prismatic Tent in Clawtree Forest"
+      "name": "무지갯빛 큐브",
+      "condition": "Clawtree Forest의 Prismatic Tent 서브 에리어에 방문하기"
     },
     "pain_blot_puzzle": {
-      "name": "Paint Blot Pain",
-      "condition": "Solve the puzzle in Paint Blot Path"
+      "name": "물감으로 얼룩진 고통",
+      "condition": "Paint Blot Path의 퍼즐을 풀기"
     },
     "horror_maze_end": {
-      "name": "Outer Planet",
-      "condition": "Successfully navigate through the Horror Maze"
+      "name": "외계행성",
+      "condition": "Horror Maze를 성공적으로 탐색하기"
     },
     "horror_maze_chainsaw": {
-      "name": "Wilted Rose",
-      "description": "Hush now child... Humphry can hurt you no more...",
-      "condition": "Use the Chainsaw effect on the monster in Horror Maze"
+      "name": "시든 장미",
+      "description": "진정하렴... 이제 험프리는 너에게 손 댈 수 없단다...",
+      "condition": "Horror Maze에서 괴물에게 전기톱 이펙트를 사용하기"
     },
     "heart_heart_world": {
-      "name": "Amplified Heartbeat",
-      "description": "Woah... that's one big heart!",
-      "condition": "Visit the Giant Heart room in the Panel Passage of the Heart World"
+      "name": "증폭하는 심장 박동",
+      "description": "우와... 엄청 큰 심장이다!",
+      "condition": "Heart World의 Panel Passage 서브 에리어에서 커다란 심장이 있는 방을 방문하기"
     },
     "bunny_stellar_park": {
-      "name": "Clown Bunny",
-      "description": "It seems happy to not be the only one around here...",
-      "condition": "Equip the Bunny Ears effect in the Stellar Park of Celestial Night near the bunny clown"
+      "name": "토끼 광대",
+      "description": "혼자가 아니라는 사실에 기뻐하는 것 같아...",
+      "condition": "Celestial Night의 Stellar Park 서브 에리어에 있는 광대 토끼 NPC의 근처에서 토끼귀 이펙트를 장착하기"
     },
     "stellar_park_tt": {
-      "name": "Race Under the Moonlit Sky",
-      "condition": "Visit the Stellar Park of Celestial Night in {TIME} or less in Time Trial Mode"
+      "name": "달빛 아래의 경주",
+      "condition": "Time Trial Mode를 켜고 Celestial Night의 Stellar Park의 서브 에리어에 {TIME} 이내로 도달하기"
     },
     "2kki_marginal_effect": {
-      "name": "Lovable Abomination",
-      "description": "Third leg may or may not be included",
-      "condition": "Obtain the Marginal effect. If you have already unlocked it, return to Broken Faces Area."
+      "name": "사랑스러운 혐오감",
+      "description": "세 번째 다리는 포함될 수도 포함되지 않을 수도 있습니다",
+      "condition": "마지널 이펙트를 얻기. 만약 이미 얻었다면, Broken Faces Area로 돌아가기"
     },
     "2kki_cake_effect": {
-      "name": "Piece Of Cake!",
-      "description": "Tasty...",
-      "condition": "Obtain the Cake effect. If you have already unlocked it, visit Shimofuri-tan in Cutlery World."
+      "name": "케이크 한 조각!",
+      "description": "맛있다...",
+      "condition": "케이크 이펙트를 얻기. 만약 이미 얻었다면, Cutlery World에서 Shimofuri NPC와 상호작용하기"
     },
     "shimofuri_mask_sweets": {
-      "name": "Cake! Cake! Cake!",
-      "description": "Two are close friends...?",
-      "condition": "Put on Shimofuri-tan's mask and talk to Sweets Musume in Cutlery World"
+      "name": "케이크! 케이크! 케이크!",
+      "description": "사이 좋은 둘...?",
+      "condition": "Shimofuri 가면을 쓰고 Cutlery World에서 Sweets Musume에게 말을 걸기"
     },
     "buzzing_bee": {
-      "name": "Bzzzweet",
-      "description": "This must bee a delicious cake",
-      "condition": "Equip the Cake effect near the Queen Bee in Honeybee Residence"
+      "name": "부우우윗트",
+      "description": "이건 부우웅명 맛있는 케이크다",
+      "condition": "Honeybee Residence에 있는 여왕벌 NPC 근처에서 케이크 이펙트를 장착하기"
     },
     "cat_violet_galaxy": {
-      "name": "Meowing Under the Stars",
-      "description": "Do you think the stars will meow back at us?",
-      "condition": "Interact with the gray cat in Violet Galaxy"
+      "name": "별들 아래의 야옹이",
+      "description": "별들도 우리한테 야옹해 줄까?",
+      "condition": "Violet Galaxy에서 회색 고양이와 상호작용하기"
     },
     "glowing_gemstone_cave": {
-      "name": "Crystal Haven",
-      "description": "Sparkle overload!!",
-      "condition": "Reach the glowing cave part of Gemstone Cave"
+      "name": "크리스탈 안식처",
+      "description": "반짝임 과다!!",
+      "condition": "Gemstone Cave에서 빛나는 동굴 지역에 도달하기"
     },
     "rain_bubble_world": {
-      "name": "No More Bubbles!",
-      "description": "You thought you could enjoy?",
-      "condition": "Make the bubbles disappear in Bubble World"
+      "name": "비눗방울 멈춰!",
+      "description": "즐길 수 있을 거라 생각했어?",
+      "condition": "Bubble World에서 비눗방울을 사라지게 만들기"
     },
     "colossus_of_rhomb": {
-      "name": "Theophobia",
-      "description": "Uh, nice tattoos, dude.",
-      "condition": "See the Colossus of Rhomb event in Square-Square World"
+      "name": "신 공포증",
+      "description": "어, 멋있는 문신인데, 형씨.",
+      "condition": "Square-Square World에서 Colossus of Rhomb 이벤트를 보기"
     },
     "humphry_horror": {
-      "name": "Ghoul",
-      "description": "You've been invited to the worst dinner. Ever.",
-      "condition": "Get caught by the monster of the Horror Maze"
+      "name": "구울",
+      "description": "가장 끔찍한 저녁 식사에 초대되셨습니다. 영원히.",
+      "condition": "Horror Maze의 괴물에게 잡히기"
     },
     "horse_mask": {
-      "name": "Horsin' Around",
-      "description": "Alright, no more horseplay.",
-      "condition": "Equip the horse mask in Motel Breeze"
+      "name": "말주변이 없는",
+      "description": "좋아, 말장난은 여기까지.",
+      "condition": "Motel Breeze에서 말 가면을 착용하기"
     },
     "red_monsters_qxy": {
-      "name": "Nightmare Spasms",
-      "description": "Are these scourges of a perturbation monsters or signs? Are you a tool of fate or a witness to a disaster?",
-      "condition": "Chainsaw the red monsters in Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands",
+      "name": "악몽 같은 경련",
+      "description": "이 재앙들은 섭동의 괴물인가, 징조인가? 당신은 운명의 도구인가, 재앙의 목격자인가?",
+      "condition": "Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands에 있는 붉은 괴물에게 전기톱 이펙트를 사용하기",
       "checkbox": {
         "wooded_lakeside_1_monster": "Wooded Lakeside A",
         "wooded_lakeside_2_monster": "Wooded Lakeside B",

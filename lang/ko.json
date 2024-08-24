@@ -3866,7 +3866,7 @@
     "red_monsters_qxy": {
       "name": "악몽 같은 경련",
       "description": "이 재앙들은 섭동의 괴물인가, 징조인가? 당신은 운명의 도구인가, 재앙의 목격자인가?",
-      "condition": "Wooded Lakeside, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands에 있는 붉은 괴물에게 전기톱 이펙트를 사용하기",
+      "condition": "Wooded Lakeside A, Wooded Lakeside B, Kaleidoscope World, Streetlight Docks, Critter Village (Hexagonal Pillar Passage), Pure White Lands에 있는 붉은 괴물에게 전기톱 이펙트를 사용하기",
       "checkbox": {
         "wooded_lakeside_1_monster": "Wooded Lakeside A",
         "wooded_lakeside_2_monster": "Wooded Lakeside B",
@@ -3877,119 +3877,119 @@
       }
     },
     "innocent_dream_event": {
-      "name": "Cadence and Cascade",
-      "description": "A field full of clouds, an obsolete piano, and a dream.",
-      "condition": "View the Out-of-Body-Experience event in Innocent Dream"
+      "name": "운율과 흐름",
+      "description": "구름과 스러진 피아노, 꿈으로 가득한 들판",
+      "condition": "Innocent Dream에서 유체이탈 이벤트를 감상하기"
     },
     "toxic_corruption_nerium": {
-      "name": "Deathly Beauty",
-      "description": "The portrait of death in a being",
-      "condition": "Trigger the Toxic Corruption event in Nerium Lab"
+      "name": "죽음 같은 아름다움",
+      "description": "누군가의 죽음을 그린 초상화",
+      "condition": "Nerium Lab에서 Toxic Corruption 이벤트를 감상하기"
     },
     "herb_cat_pls_street": {
-      "name": "Tranquil Cat",
-      "description": "Quietly smoking, thinking of nothing",
-      "condition": "Interact with the cat-like creature in the Coffee Shop on Pleasure Street"
+      "name": "유유자적한 고양이",
+      "description": "아무 생각도 하지 않으며 조용히 연초를 피우다",
+      "condition": "Pleasure Street의 커피숍에서 고양이 같은 생명체와 상호작용하기"
     },
     "mouse_furnace_pls_street": {
-      "name": "Radiating Warmth",
-      "description": "The mice nestle by the furnace in its soft, flickering glow while being surrounded by hanging stars and fruits - it's a whimsical scene fit for a children's book...",
-      "condition": "Enter the Mouse Furnace in Pleasure Street"
+      "name": "피어나는 온기",
+      "description": "쥐들은 별과 과일에 둘러싸인 채 부드럽고 깜박거리는 빛을 내는 용광로 옆에 둥지를 틀었다. 마치 동화책에서나 나올 법한 별난 광경처럼...",
+      "condition": "Pleasure Street에서 생쥐 용광로(Mouse Furnace) 서브 에리어에 입장하기"
     },
     "mermaid_hunger_pls_street": {
-      "name": "Something’s Fishy",
-      "description": "Holy carp...",
-      "condition": "Trigger the Mermaid Hunger event in the Mermaid's Bowl on Pleasure Street"
+      "name": "수상한 비린내",
+      "description": "게상에 마상에...",
+      "condition": "Pleasure Street의 Mermaid's Bowl 서브 에리어에서 인어의 굶주림(Mermaid Hunger) 이벤트를 활성화하기"
     },
     "claustrophobia_creature": {
-      "name": "Pardon the Intrusion",
-      "description": "Er, sorry, didn't know someone was in here",
-      "condition": "See the creature in Claustrophobia"
+      "name": "침입을 용서해 주세요",
+      "description": "어, 죄송해요, 여기 누가 있는지 몰랐네",
+      "condition": "Claustrophobia에서 생명체를 보기"
     },
     "scrap_metal_passage": {
-      "name": "Scrapped Star",
-      "description": "A starry sky on a junkyard",
-      "condition": "Visit the two passages in Scrap Metal Passage"
+      "name": "오려 모은 별",
+      "description": "고물상 위 빛나는 별",
+      "condition": "Scrap Metal Passage에서 두 개의 통로를 방문하기"
     },
     "alt_seaside_highway": {
-      "name": "City Sights",
-      "condition": "Visit the alternate cliffside at Seaside Highway"
+      "name": "도시 관측",
+      "condition": "Seaside Highway에서 또다른 절벽을 방문하기"
     },
     "overdose_sniper_san": {
-      "name": "Lights Out",
-      "description": "What did you take?",
-      "condition": "Visit Sniper-san's Room in Sweet Medical Utopia while the lights are out"
+      "name": "소등",
+      "description": "뭘 먹은 거야?",
+      "condition": "Sweet Medical Utopia에서 불이 꺼진 스나이퍼 씨(Sniper-san) NPC의 방을 방문하기"
     },
     "fantasy_dream": {
-      "name": "End of the Fantasy...",
-      "description": "... but the beginning of a new dream.",
-      "condition": "See the Ending #1. If you have already watched it, see it again from the Data menu of the computer."
+      "name": "환상의 끝...",
+      "description": "...그러나 새로운 꿈의 시작.",
+      "condition": "엔딩 #1을 보기. 이미 봤다면, 컴퓨터의 Data 메뉴를 통해 다시 감상하기"
     },
     "dream_wanderer": {
-      "name": "Wanderer",
-      "description": "The one who walks through a thousand dreams",
-      "condition": "See the Ending #2. If you have already watched it, see it again from the Data menu of the computer."
+      "name": "방랑자",
+      "description": "1천 가지 꿈의 세계를 걸어온 자",
+      "condition": "엔딩 #2를 보기. 이미 봤다면, 컴퓨터의 Data 메뉴를 통해 다시 감상하기"
     },
     "dreaming_doll": {
-      "name": "Dreaming Doll",
-      "condition": "See the Ending #3"
+      "name": "꿈꾸는 인형",
+      "condition": "엔딩 #3을 보기"
     },
     "glitch_ending": {
-      "name": "Corrupted Dream",
-      "condition": "See the Glitch Ending"
+      "name": "타락한 꿈",
+      "condition": "글리치 엔딩을 보기"
     },
     "cake_shop_repentance": {
-      "name": "Chocolate Cake Shop",
-      "description": "She has a cake on her head...!",
-      "condition": "Buy a cake while using the Cake effect at the Cake Shop in Graveyard of Repentance"
+      "name": "초콜릿 케이크 가게",
+      "description": "머리 위에 케이크가 있잖아...!",
+      "condition": "Graveyard of Repentance의 케이크 가게에서 케이크 이펙트를 장착한 채로 케이크를 구매하기"
     },
     "funeral_prison_gravekeeper": {
-      "name": "Right Behind You",
-      "description": "I'll take you any day, chump.",
-      "condition": "Attempt to slay the Gravekeeper Warden in Funeral Prison"
+      "name": "바로 뒤에",
+      "description": "언제든 처넣을 준비가 돼있다고, 멍청아",
+      "condition": "Funeral Prison에서 교도관(Gravekeeper Warden) NPC를 전기톱으로 베려고 시도하기"
     },
     "red_beach_sarah": {
-      "name": "Purple and Red",
-      "condition": "Enter Blood Red Beach through Legacy Nexus and cause Sarah to appear"
+      "name": "보랏빛과 붉은 빛",
+      "condition": "Legacy Nexus를 통해 Blood Red Beach에 입장하여 사라 NPC를 보기"
     },
     "mini_maze_mystery_tile": {
-      "name": "Breakout!",
-      "description": "You probably never hit this, just got the Eyeball Bomb and left, didn't you?",
-      "condition": "Step on the ? tile in Mini-Maze"
+      "name": "탈출!",
+      "description": "눈알 폭탄만 얻고 가서 이런 게 있는 줄도 몰랐죠?",
+      "condition": "Mini-Maze에서 ? 타일을 밟기"
     },
     "fish_oil_crab_shore": {
-      "name": "Rest Ashored",
-      "description": "It's like heaven (if you're a crab)",
-      "condition": "Reach the Crab Shore of Fish Oil Swamp"
+      "name": "해변에서의 휴식",
+      "description": "(내가 게였다면)천국 같다",
+      "condition": "Fish Oil Swamp의 Crab Shore 서브 에리어에 도달하기"
     },
     "fish_oil_swamp_angel": {
-      "name": "I Sea Angel",
-      "description": "\"Dang girl did it hurt...? When you fell from Fish Oil Swamp...?\"",
-      "condition": "Chainsaw the angel girl in Fish Oil Swamp"
+      "name": "천사를 보다",
+      "description": "\"많이 아팠니...? 생선 기름 늪에서 떨어졌을 때 말이야\"",
+      "condition": "Fish Oil Swamp에서 천사 소녀 NPC를 전기톱으로 베기"
     },
     "fish_oil_swamp_penguin": {
-      "name": "Penguin Prison",
-      "description": "You do have a point there...",
-      "condition": "Equip the Penguin effect in front of the pointy penguin in Fish Oil Swamp"
+      "name": "펭귄 감옥",
+      "description": "좋은 지적이야...",
+      "condition": "Fish Oil Swamp의 뾰족한 펭귄 NPC 앞에서 펭귄 이펙트를 장착하기"
     },
     "violet_galaxy_collectible": {
-      "name": "Effect Not Found",
-      "description": "E.V.E.R.Y.T.H.I.N.G.S. H.A.P.P.Y.",
-      "condition": "Trigger the event in Violet Galaxy"
+      "name": "이펙트를 찾을 수 없습니다",
+      "description": "모 든 게 다 행 복 해",
+      "condition": "Violet Galaxy에서 이벤트를 활성화하기"
     },
     "dragon_statue_world": {
-      "name": "Dragons Woah!",
-      "condition": "Visit Dragon Statue World"
+      "name": "용이다!",
+      "condition": "Dragon Statue World를 방문하기"
     },
     "karma_pleasure_street": {
-      "name": "Instant Karma",
-      "description": "... You kind of deserved that.",
-      "condition": "Chainsaw the blue haired woman in one of the houses in Pleasure Street"
+      "name": "순간의 업보",
+      "description": "...넌 당해도 싸.",
+      "condition": "Pleasure Street의 집에서 푸른 머리의 여성 NPC를 전기톱으로 베기"
     },
     "beach_challenge": {
-      "name": "Beach Bum",
-      "description": "They say salt water cures everything",
-      "condition": "Visit Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, and Blood Red Beach",
+      "name": "바닷가의 부랑자",
+      "description": "소금물은 모든 것을 치료한다고 말하지",
+      "condition": "Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, Blood Red Beach를 방문하기",
       "checkbox": {
         "beach_mixed_a|beach_mixed_b": "Mixed Beach",
         "beach_dream|beach_dream_b": "Dream Beach",
@@ -3999,68 +3999,68 @@
       }
     },
     "wintry_attendant": {
-      "name": "Fanatic Guiding Dance",
-      "description": "Simple attendant who can see beyond what is intrinsically expected of things",
-      "condition": "Watch the Wintry Attendant at Wintry Cliffs show all her possible forms"
+      "name": "진심 안내 댄스",
+      "description": "필요 이상으로 많은 것을 보여 주는 평범한 안내원",
+      "condition": "Wintry Cliffs에서 안내원 NPC가 보여 줄 수 있는 형태를 모두 보기"
     },
     "industrial_waterfront_nurse": {
-      "name": "Helping Hand",
-      "description": "Let's get you all fixed up!",
-      "condition": "Interact with the nurse at the Industrial Waterfront with the Plaster Cast effect"
+      "name": "도움의 손길",
+      "description": "싹 다 고쳐 드릴게요!",
+      "condition": "Industrial Waterfront에서 깁스 이펙트를 착용하고 간호사와 상호작용하기"
     },
     "cloud_sky_kingdom": {
-      "name": "Frowning Cumulus",
-      "description": "If you keep scaring them they will turn into water!",
-      "condition": "Use the Lantern effect on any of the lighter clouds in Sky Kingdom to make them disappear"
+      "name": "불쾌한 뭉게구름",
+      "description": "계속 겁 주면 물로 변해버릴걸!",
+      "condition": "Sky Kingdom에서 랜턴 이펙트를 사용하여 아무 구름 NPC를 사라지게 만들기"
     },
     "banana_b_g_islands": {
-      "name": "Bear that became longing",
-      "description": "He can't keep his banana in peace when this dreamer comes to take his patience away.",
-      "condition": "Obtain Fru Fru Bear's banana. If you have already unlocked it, return to Board Game Islands."
+      "name": "갈망하는 곰",
+      "description": "몽상가가 그의 인내심을 뺏으러 찾아 왔다면 이제 바나나를 온전하게 보관하는 것은 불가능하다",
+      "condition": "Fru Fru Bear NPC에게서 바나나를 얻기. 만약 이미 얻었다면, Board Game Islands에 돌아가기"
     },
     "hopeful_road_light_lady": {
-      "name": "Campsite Wild Ride",
-      "description": "Congratulations! Congratulations! Congratulations! Congratulations!",
-      "condition": "Interact with the Light Lady on the Hopeful Road of the Pitch Black Plateau"
+      "name": "캠핑장의 난폭 운전",
+      "description": "축하해요! 축하해요! 축하해요! 축하해요!",
+      "condition": "Pitch Black Plateau의 Hopeful Road 서브 에리어에서 밝은 옷의 여인과 상호작용하기"
     },
     "lemonade_office_phone": {
-      "name": "Phone of Doom",
-      "description": "I'm not sorry.",
-      "condition": "Use the yellow phone in Lemonade Edifice"
+      "name": "파멸의 전화기",
+      "description": "안 죄송합니다.",
+      "condition": "Lemonade Edifice에서 노란색 전화기를 사용하기"
     },
     "paint_shop_pls_street": {
-      "name": "It's All Sunshine and Rainbows",
-      "description": "Bring a little bit of color into your life!",
-      "condition": "View the shopkeeper's face cavity by using the Rainbow effect in the Paint Shop on Pleasure Street"
+      "name": "햇빛과 무지개",
+      "description": "당신의 삶에 약간의 색을 가져다 주세요!",
+      "condition": "Pleasure Street의 페인트 가게 서브 에리어에서 무지개 이펙트를 사용하여 가게 주인의 움푹 패인 얼굴을 보기"
     },
     "sleeping_audiophile": {
-      "name": "Sick Beats!",
-      "description": "I'll listen to anything, see?",
-      "condition": "See the Ending #---. If you have already watched it, see it again from one of the options of the Sound Room."
+      "name": "좋은 음악이군!",
+      "description": "난 가리지 않고 다 들어, 봤지?",
+      "condition": "엔딩 #---를 보기. 만약 이미 봤다면, 사운드 룸의 옵션을 통해 다시 보기"
     },
     "wanderer_audiophile": {
-      "name": "2kki.wav",
-      "description": "I have the biggest playlist ever!!",
-      "condition": "See the Ending #... If you have already watched it, see it again from one of the options of the Sound Room."
+      "name": "2키.wav",
+      "description": "여태 본 것 중 제일 큰 플레이리스트가 나한테 있다고!!",
+      "condition": "엔딩 #...를 보기. 만약 이미 봤다면, 사운드 룸의 옵션을 통해 다시 보기"
     },
     "moon_deserted_pier": {
-      "name": "Accursed Moon",
+      "name": "저주 받은 달",
       "description": "Somniator, praedator somnum exterreri in lunae\nSomniator, dominus honorabilium",
-      "condition": "Get close to the black moon in Deserted Pier"
+      "condition": "Deserted Pier에서 검은 달에게 가까이 다가가기"
     },
     "grand_museum": {
-      "name": "Great and Grand",
-      "condition": "Visit the Grand Scientific Museum"
+      "name": "위대하고 웅장한",
+      "condition": "Grand Scientific Museum을 방문하기"
     },
     "grand_museum_time_trial": {
-      "name": "Advancing Science",
-      "description": "Science is advancing quicker than expected.",
-      "condition": "Visit the Grand Scientific Museum in {TIME} or less in Time Trial Mode"
+      "name": "진보하는 과학",
+      "description": "과학은 생각보다 훨씬 더 빠르게 발전하고 있다",
+      "condition": "Time Trial Mode를 켜고 Grand Scientific Museum에 {TIME} 이내로 도달하기"
     },
     "sour_void": {
-      "name": "Easy Peasy, Lemon Squeezy",
-      "description": "Sour as the Sour Void!",
-      "condition": "Reach Sour Void"
+      "name": "쉽게 짜마시는 레몬 주스",
+      "description": "Sour Void 만큼 시큼하네!",
+      "condition": "Sour Void에 도달하기"
     },
     "maiden_snowy_village": {
       "name": "Maiden of the Frost",
